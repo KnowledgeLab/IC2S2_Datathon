@@ -2,7 +2,7 @@
 
 Hi, Paticipants of #2022IC2S2Datathon,
 
-welcome to our Data repo!
+Welcome to our Data repo!
 We provide the following datasets for you to explore.For each dataset, we have a unique .md file to introduce its background, data structure, and terms of use, respectively.
 
 
