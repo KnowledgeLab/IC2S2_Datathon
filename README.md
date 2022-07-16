@@ -4,10 +4,16 @@ Hi, Paticipants of #2022IC2S2Datathon,
 
 Welcome to our Data repo!
 We provide the following datasets for you to explore.For each dataset
-you can download the data on game day.
+some datasets are privite, you can only download the data on game day.
 
 
 ## Meta Business Data:
+
+## Proquest News Data:
+
+## SafeGraph Mobility Data:
+
+## Covid Cases:
 
 ### About Data
 
@@ -22,11 +28,6 @@ It also includes the additional data sets:
 
 you can find the whole intro in their github repo, https://github.com/nytimes/covid-19-data.git
 
-## Proquest News Data:
-
-## SafeGraph Mobility Data:
-
-## Covid Cases:
 
 ## Location Information
 
