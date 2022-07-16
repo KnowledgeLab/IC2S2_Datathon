@@ -8,6 +8,7 @@ some datasets are privite, you can only download the data on game day.
 
 
 ## Meta Business Data:
+The goal of the Business Activity Trends project is to provide humanitarian organizations and researchers with dataabout business recovery from disruptive events all over the world.  As noted above, our development of BusinessActivity Trends was inspired by the work of Eyre, De Luca, and Simini [4] (referred to as EDS from here on out). Theseauthors propose and validate a methodology for using business social-media activity to measure business downtime andrecovery following natural disasters. Their approach leverages aggregate posting behavior of Facebook business pages,which are instances of Facebook’s Pages product that are owned and operated by businesses. They hypothesize thatposting to Facebook business pages will be affected by disruptive events (such as natural disasters) and that this changecan be leveraged as a proxy measurement of the state of business sectors.
 
 ## Proquest News Data:
 ### About Data
