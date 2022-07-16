@@ -58,11 +58,11 @@ you can find the whole intro in their github repo, https://github.com/nytimes/co
 - Gender
 【female_population】B01001e26: Female
 - Age
-  -【0_to_9_years_old】B01001e3,B01001e4,B01001e27,B01001e28: 0-9 years old
-  -【10_to_19_years_old】B01001e5,B01001e6,B01001e7,B01001e29,B01001e30,B01001e31: 10-19 years old
-  -【20_to_29_years_old】B01001e8,B01001e9,B01001e10,B01001e11,B01001e32,B01001e33,B01001e34,B01001e35: 20-29 years old
-【30_to_39_years_old】B01001e12,B01001e13,B01001e36,B01001e37: 30-39 years old
-【40_to_49_years_old】B01001e14,B01001e15,B01001e38,B01001e39: 40-49 years old
+  1.【0_to_9_years_old】B01001e3,B01001e4,B01001e27,B01001e28: 0-9 years old
+  2.【10_to_19_years_old】B01001e5,B01001e6,B01001e7,B01001e29,B01001e30,B01001e31: 10-19 years old
+  3.【20_to_29_years_old】B01001e8,B01001e9,B01001e10,B01001e11,B01001e32,B01001e33,B01001e34,B01001e35: 20-29 years old
+  4.【30_to_39_years_old】B01001e12,B01001e13,B01001e36,B01001e37: 30-39 years old
+  5.【40_to_49_years_old】B01001e14,B01001e15,B01001e38,B01001e39: 40-49 years old
 【50_to_59_years_old】B01001e16,B01001e17,B01001e40,B01001e41: 50-59 years old
 【60_to_69_years_old】B01001e18,B01001e19,B01001e20,B01001e21,B01001e42,B01001e43,B01001e44,B01001e45: 60-69 years old
 【70_to_79_years_old】B01001e22,B01001e23,B01001e46,B01001e47: 70-79 years old
