@@ -28,7 +28,7 @@ the properties are contained in our dataset
 - ds:The date of the activity provided in YYYY-MM-DDformat defined by Pacific Time
 
 
-click [here](./Data_1_Meta_Business) for more details.
+click [here](./dataset/Meta_Business) for more details.
 
 ## 2.Proquest News Data:
 ### About Data
@@ -50,11 +50,11 @@ This csv file contains metadata for all of the newspaper articles. It also inclu
 This set of csv files includes all of the available publication titles within US Newsstream and all of the word counts for each article. 
 This dataset was created by selecting all newspaper articles (https://about.proquest.com/en/products-services/nationalsnews_shtml/) which have the term 'covid' in the full text. The possible date range is from January 1st, 2019 to July 12th, 2022.
 
-click [here](./Data_2_Meta_Business) for more details.
+click [here](./dataset/Meta_Business) for more details.
 
 ## 3.SafeGraph Mobility:
 
-click [here](./Data_3_SafeGraph_Mobility) for more details.
+click [here](./dataset/SafeGraph_Mobility) for more details.
 
 ## 4.Covid Cases:
 
@@ -72,7 +72,7 @@ It also includes the additional data sets:
 
 you can find the whole intro in their github repo, https://github.com/nytimes/covid-19-data.git
 
-click [here](./Data_4_Covid_Cases) for more details.
+click [here](./dataset/Covid_Cases) for more details.
 ## 5.Urban Region Information
 ### About Data
 We provide the data with the following properties...
@@ -85,4 +85,4 @@ We provide the data with the following properties...
 - Housing and living conditions
 - Health 
 - 
-click [here](./Data_5_Urban_Region) for more details.
+click [here](./dataset/Urban_Region) for more details.
