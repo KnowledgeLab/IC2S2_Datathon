@@ -1,8 +1,7 @@
 ![](./ic2s2_logo.png.webp)
-![](./ic2s2_bg.jpg.webp)
-# IC2S2_Datathon
-![image](https://user-images.githubusercontent.com/17844045/179384465-02af5979-0aeb-410c-9257-2533074974bd.png)
 
+# IC2S2_Datathon
+![](./ic2s2_bg.png)
 Hi, Paticipants of #2022IC2S2Datathon,
 
 Welcome to our Data repo!
