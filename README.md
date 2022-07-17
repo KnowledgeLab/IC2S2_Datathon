@@ -12,8 +12,8 @@ We provide the following datasets for you to explore. some datasets are privite,
 ## 1.Meta Business Data:
 ### About Data
 The goal of the Business Activity Trends project is to provide humanitarian organizations and researchers with dataabout business recovery from disruptive events all over the world.  As noted above, our development of BusinessActivity Trends was inspired by the work of Eyre, De Luca, and Simini(referred to as EDS from here on out). Theseauthors propose and validate a methodology for using business social-media activity to measure business downtime andrecovery following natural disasters. Their approach leverages aggregate posting behavior of Facebook business pages,which are instances of Facebook’s Pages product that are owned and operated by businesses. They hypothesize thatposting to Facebook business pages will be affected by disruptive events (such as natural disasters) and that this changecan be leveraged as a proxy measurement of the state of business sectors.
-We encourage you to look at our attached white paper for more information on the data andpotential use cases.
-We have provided separate files in csv formatfor the years 2020 (beginning2020-03-01), 2021, and 2022 (up to 2022-06-29). Additionally, we have created versions of the data that aggregate all businesses in a county (all_agg) and disaggregate by business verticals (verticals). We highly suggest using the verticals version asaggregating all businesses tends to miss out on a lot of heterogeneity across economicsectors.
+
+We encourage you to look at our attached white paper for more information on the data andpotential use cases. We have provided separate files in csv formatfor the years 2020 (beginning2020-03-01), 2021, and 2022 (up to 2022-06-29). Additionally, we have created versions of the data that aggregate all businesses in a county (all_agg) and disaggregate by business verticals (verticals). We highly suggest using the verticals version asaggregating all businesses tends to miss out on a lot of heterogeneity across economicsectors.
 
 - 
 click [here](./Data_1_Meta_Business) for more details.
