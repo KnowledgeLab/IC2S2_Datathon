@@ -1,4 +1,5 @@
 ![](./ic2s2_logo.png.webp)
+![](./ic2s2_bg.png.webp)
 # IC2S2_Datathon
 
 Hi, Paticipants of #2022IC2S2Datathon,
