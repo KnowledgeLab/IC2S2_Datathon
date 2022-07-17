@@ -2,7 +2,7 @@
 ![](./ic2s2_bg.png)
 # IC2S2_Datathon
 
-Hi, Paticipants of #2022IC2S2Datathon,
+Hi, Paticipants of #2022-IC2S2-Datathon,
 
 Welcome to the Data Repo of 8th IC2S2,2022!
 We provide the following datasets for you to explore.
