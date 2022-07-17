@@ -1,4 +1,9 @@
-![](./ic2s2_logo.png.webp)
+
+<center class="half">
+    <img src="./ic2s2_logo.png.webp" width="200"/><img src="./ic2s2_logo.png.webp" width="200"/><img src="./ic2s2_logo.png.webp" width="200"/>
+</center>
+
+
 ![](./ic2s2_bg.png)
 # IC2S2_Datathon
 
