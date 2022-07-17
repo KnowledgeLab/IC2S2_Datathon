@@ -1,6 +1,6 @@
-![](./ic2s2_logo.png.webp)![](./ic2s2_logo.png.webp)![](./ic2s2_logo.png.webp)
+![](./src/ic2s2_logo.png.webp)![](./src/ic2s2_logo.png.webp)![](./src/knowledge_lab.pn)
 
-![](./ic2s2_bg.png)
+![](./src/ic2s2_bg.png)
 # IC2S2_Datathon
 
 Hi, Paticipants of #2022-IC2S2-Datathon,
