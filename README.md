@@ -45,9 +45,9 @@ ProQuest, TDM Studio US Newsstream Dataset, [Unpublished Raw Data]. ProQuest Par
 
 click [here](./Data_2_Meta_Business) for more details.
 
-## 3.SafeGraph Mobility Data:
+## 3.SafeGraph Mobility:
 
-click [here](./Data_3_SafeGraph_Mobility_Data) for more details.
+click [here](./Data_3_SafeGraph_Mobility) for more details.
 
 ## 4.Covid Cases:
 
