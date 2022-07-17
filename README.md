@@ -14,6 +14,7 @@ some datasets are privite, you can only download the data on game day.
 ## 1.Meta Business Data:
 ### About Data
 The goal of the Business Activity Trends project is to provide humanitarian organizations and researchers with dataabout business recovery from disruptive events all over the world.  As noted above, our development of BusinessActivity Trends was inspired by the work of Eyre, De Luca, and Simini(referred to as EDS from here on out). Theseauthors propose and validate a methodology for using business social-media activity to measure business downtime andrecovery following natural disasters. Their approach leverages aggregate posting behavior of Facebook business pages,which are instances of Facebook’s Pages product that are owned and operated by businesses. They hypothesize thatposting to Facebook business pages will be affected by disruptive events (such as natural disasters) and that this changecan be leveraged as a proxy measurement of the state of business sectors.
+
 click [here](./Data_1_Meta_Business) for more details.
 
 ## 2.Proquest News Data:
@@ -42,9 +43,14 @@ How to cite this dataset:
 
 ProQuest, TDM Studio US Newsstream Dataset, [Unpublished Raw Data]. ProQuest Part of Clarivate
 
+click [here](./Data_2_Meta_Business) for more details.
+
 ## 3。SafeGraph Mobility Data:
 
+click [here](./Data_3_SafeGraph_Mobility_Data) for more details.
+
 ## 4.Covid Cases:
+
 
 ### About Data
 
@@ -59,7 +65,7 @@ It also includes the additional data sets:
 
 you can find the whole intro in their github repo, https://github.com/nytimes/covid-19-data.git
 
-
+click [here](./Data_4_Covid_Cases) for more details.
 ## 5.Location Information
 ### About Data
 We provide the data with the following properties...
@@ -71,4 +77,5 @@ We provide the data with the following properties...
 - Education
 - Housing and living conditions
 - Health 
-
+- 
+click [here](./Data_5_Location_Information) for more details.
