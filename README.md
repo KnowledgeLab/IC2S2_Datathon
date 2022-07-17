@@ -60,7 +60,7 @@ It also includes the additional data sets:
 you can find the whole intro in their github repo, https://github.com/nytimes/covid-19-data.git
 
 click [here](./Data_4_Covid_Cases) for more details.
-## 5.Location Information
+## 5.Urban Region Information
 ### About Data
 We provide the data with the following properties...
 - Gender
