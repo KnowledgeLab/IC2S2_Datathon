@@ -15,7 +15,18 @@ The goal of the Business Activity Trends project is to provide humanitarian orga
 
 We encourage you to look at our attached white paper for more information on the data andpotential use cases. We have provided separate files in csv formatfor the years 2020 (beginning2020-03-01), 2021, and 2022 (up to 2022-06-29). Additionally, we have created versions of the data that aggregate all businesses in a county (all_agg) and disaggregate by business verticals (verticals). We highly suggest using the verticals version asaggregating all businesses tends to miss out on a lot of heterogeneity across economicsectors.
 
-- 
+the properties are contained in our dataset
+- gadm_id: The GADM id of the polygon
+- gadm_county_name:The county name (GADM level 2)
+- gadm_state_name: The state name (GADM level 1)
+- business_vertical: The business vertical of the aggregation.
+- activity_percentage: The 7-day rolling sum of totalactivity (i.e., total posts) as a percentof the average weekly baseline average. 
+- activity_quantile: The level of activity as a quantilerelative to the baseline period. 
+- lat: The latitude of the center of the polygon
+- lon:The longitude of the center of the polygon
+- ds:The date of the activity provided in YYYY-MM-DDformat defined by Pacific Time
+
+
 click [here](./Data_1_Meta_Business) for more details.
 
 ## 2.Proquest News Data:
