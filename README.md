@@ -1,4 +1,4 @@
-![](./src/ic2s2_logo.png.webp)![](./src/ic2s2_logo.png.webp)![](./src/knowledge_lab.pn)
+![](./src/ic2s2_logo.png.webp)![](./src/ic2s2_logo.png.webp)![](./src/knowledge_lab.png)
 
 ![](./src/ic2s2_bg.png)
 # IC2S2_Datathon
