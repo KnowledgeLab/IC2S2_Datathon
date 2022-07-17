@@ -50,7 +50,7 @@ This csv file contains metadata for all of the newspaper articles. It also inclu
 This set of csv files includes all of the available publication titles within US Newsstream and all of the word counts for each article. 
 This dataset was created by selecting all newspaper articles (https://about.proquest.com/en/products-services/nationalsnews_shtml/) which have the term 'covid' in the full text. The possible date range is from January 1st, 2019 to July 12th, 2022.
 
-click [here](./dataset/Meta_Business) for more details.
+click [here](./dataset/Proquest_News) for more details.
 
 ## 3.SafeGraph Mobility:
 
