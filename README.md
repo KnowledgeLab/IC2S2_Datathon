@@ -21,7 +21,7 @@ click [here](./Data_1_Meta_Business) for more details.
 ### About Data
 These datasets are made from ProQuest US Newsstream using ProQuest TDM Studio. Below are a few notes which may be helpful when using the datasets.
 
-US Newsstream Metadata ALL
+- US Newsstream Metadata ALL
 
 This csv file contains metadata for all of the newspaper articles. It also includes a selection of metadata fields detailed here. 
 
@@ -32,16 +32,10 @@ This csv file contains metadata for all of the newspaper articles. It also inclu
 [Document Type] This is the type of the newspaper article--These will vary by newspaper article. Some of the most common types in this metadata file are: News, Blogs, Feature, Obituary, Opinions, Editorial...
 
 
-US Newsstream Month-Level All
+- US Newsstream Month-Level All
 
 This set of csv files includes all of the available publication titles within US Newsstream and all of the word counts for each article. 
-
 This dataset was created by selecting all newspaper articles (https://about.proquest.com/en/products-services/nationalsnews_shtml/) which have the term 'covid' in the full text. The possible date range is from January 1st, 2019 to July 12th, 2022.
-
-
-How to cite this dataset:
-
-ProQuest, TDM Studio US Newsstream Dataset, [Unpublished Raw Data]. ProQuest Part of Clarivate
 
 click [here](./Data_2_Meta_Business) for more details.
 
