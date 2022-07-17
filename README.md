@@ -59,19 +59,13 @@ you can find the whole intro in their github repo, https://github.com/nytimes/co
 
 ## 5.Location Information
 ### About Data
+We provide the data with the following properties...
 - Gender
-
 - Age
-  
 - Household Income
-
 - Occupation & Commuting
-
 - Race/ethnicity
-
 - Education
-
 - Housing and living conditions
-
 - Health 
 
