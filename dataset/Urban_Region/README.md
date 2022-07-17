@@ -1,12 +1,12 @@
 # About Data
 
-- population
+## population
 【population】B01001e1: Total population
 
-- Gender
+## Gender
 【female_population】B01001e26: Female
 
-- Age
+## Age
 【0_to_9_years_old】B01001e3,B01001e4,B01001e27,B01001e28: 0-9 years old
 
 【10_to_19_years_old】B01001e5,B01001e6,B01001e7,B01001e29,B01001e30,B01001e31: 10-19 years old
@@ -25,7 +25,7 @@
 
 【80_years_old_and_older】B01001e24,B01001e25,B01001e48,B01001e49: 80+ years old
 
-- Household Income
+## Household Income
 【total_households】B19001e1: Total Households
 
 【households_whose_annual_income_less_than_10000_dollars】B19001e2: Households whose annual income less than 10000 dollars
@@ -36,7 +36,7 @@
 
 【households_whose_annual_income_greater_than_200000_dollars】B19001e17: Households whose annual income greater than 200000 dollars
 
-- Occupation & Commuting
+## Occupation & Commuting
 【total_workforce】B23025e1: Workforce (Population 16 Years And Over)(at an age that is suitable to work)
 
 【workforce_in_labor】B23025e2: In Labor Force (actually has a job)
@@ -57,7 +57,7 @@
 
 【commuting_time_over_60_minutes】B08303e12, B08303e13: Travel time to work over 60 minutes
 
-# Race/ethnicity
+## Race/ethnicity
 【white】B02001e2: White
 
 【black_or_african_american】B02001e3: Black or African American
@@ -71,17 +71,17 @@
 【hispanic_or_latino】B03002e12: Hispanic or Latino
 
 
-# Education
+## Education
 【no_schooling_completed】B15002e3, B15002e20: No-schooling completed
 
 【high_schooling_graduate】B15002e11, B15002e28: High School Graduate (Includes Equivalency)
 
 【bachelor's_degree】B15002e15, B15002e32: Bachelor's Degree
        
-# Housing and living conditions
+## Housing and living conditions
 【occupied_housing_units】B25037e1: Occupied Housing Units
 
 【owner_occupied_housing_units】B25037e2: Owner Occupied Housing Units (the rest are renter occupied)
 
-# Health 
+## Health 
 【no_health_insurance_covered】B27010e17, B27010e33, B27010e50, B27010e66: No Health Insurance Covered
