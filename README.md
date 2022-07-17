@@ -5,10 +5,8 @@
 Hi, Paticipants of #2022-IC2S2-Datathon,
 
 Welcome to the Data Repo of 8th IC2S2,2022!
-We provide the following datasets for you to explore.
 
-
-some datasets are privite, you can only download the data on game day.
+We provide the following datasets for you to explore. some datasets are privite, you can only download the data on game day.
 
 
 ## 1.Meta Business Data:
