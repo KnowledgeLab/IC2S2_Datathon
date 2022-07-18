@@ -47,9 +47,9 @@ click [here](./dataset/Covid_Cases) for more details.
 
 [dowload]()
 
-## 5.Safegraph Mobility Data 
+## 5.Urban Region Demographic Data
 ### About
-The population mobility dataset is provided by SafeGraph, including the population movements from the end of 2019 to April 2022, between the census tracts in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). The movements were tracked through mobile devices used by the citizens. Below are a few notes which may be helpful when using the data. 
+This dataset is collected from the latest census, including the population size for different demographic categories (e.g., female, 0_to_9_years_old, asian…) in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). Below are a few notes which may be helpful when using the data.
 
 click [here](./dataset/Urban_Region) for more details.
 
