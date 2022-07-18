@@ -11,8 +11,7 @@ We compose a portfolio of 5 population-scale datasets for you to explore, includ
 ## 1.Meta Business Activities
 These datasets are provided by Meta, including business posting activities on Facebook from 2020 to 2022. The data can be used to measure how local businesses are affected by and recover from crisis events like the pandemic. Please click [here](./dataset%20description/Meta_Business_Activities) for more details.
 
-#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/saa43n4r3xafqxihbmg7fonvz0zteh74
-)
+#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/saa43n4r3xafqxihbmg7fonvz0zteh74)
 
 ## 2.Proquest News Articles
 These datasets are made from ProQuest US Newsstream using ProQuest TDM Studio. These datasets were created by selecting all [newspaper articles](https://about.proquest.com/en/products-services/nationalsnews_shtml/) with the term 'covid' in the full text. The possible date range is from January 1st, 2019, to July 12th, 2022. Please click [here](./dataset%20description/Proquest_News_Articles) for more details.
@@ -31,13 +30,11 @@ The population mobility dataset is extracted from SafeGraph mobility data, inclu
 ## 4.The NYT Covid Cases Report
 These datasets are provided by The New York Times, including the daily cumulative number of cases and deaths reported in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) since the beginning of the pandemic. Please click [here](./dataset%20description/The_NYT_Covid_Cases_Report) for more details.
 
-#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/cmhwr8o3tu8rkwywsy73dxg2h00oyo9j
-)
+#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/cmhwr8o3tu8rkwywsy73dxg2h00oyo9j)
 
 By downloading this data you agree to the following terms: https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 
 ## 5.Urban Region Census
 This dataset is collected from the latest census, including the regional population size of different demographic categories (e.g., female, 0_to_9_years_old, asian…) in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). Please click [here](./dataset%20description/Urban_Region_Census) for more details.
 
-#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/efcmaicqziw0stp4gmizm4fxq5twqwnh
-)
+#### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).[download](https://uchicago.box.com/s/efcmaicqziw0stp4gmizm4fxq5twqwnh)
