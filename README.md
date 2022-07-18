@@ -6,6 +6,8 @@
 
 Welcome to the Datathon of 8th IC2S2, 2022! In this year's competition, we invite you and your team to discover and convey insights from linked data about COVID prevalence, its framing in the national and local U.S. news, behavioral and commercial activities that follow. You are tasked with submiting an original, publicly relatable impression of your discovered patterns or associations, which should include an artistically appealing and scientific accurate data-driven visualization of your findings, alongside an explanatory description of up to 500 words. Findings should relate at least two forms data described above, may but need not link additional information (e.g., Twitter activity, Google Search attention, etc.) Source code of the discovered patterns should also be submitted to verify their scientific accuracy.
 
+#### Please format your submission as this template [download](https://github.com/KnowledgeLab/IC2S2_Datathon/blob/main/Submission%20Format.pptx).
+
 We compose a portfolio of 5 population-scale datasets for you to explore, including Meta Business Activities, Proquest News Articles, SafeGraph Mobility, The New York Times Covid Cases Report, Urban Region Census. The download links and brief introductions are provided as below.
 
 ## 1.Meta Business Activities
