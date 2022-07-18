@@ -14,21 +14,21 @@ These datasets are provided by Meta, including business posting activities on Fa
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
 ## 2.Proquest News Articles
-These datasets are made from ProQuest US Newsstream using ProQuest TDM Studio. These datasets were created by selecting all [newspaper articles](https://about.proquest.com/en/products-services/nationalsnews_shtml/) with the term 'covid' in the full text. The possible date range is from January 1st, 2019, to July 12th, 2022. Please click [here](./dataset/Proquest_News) for more details.
+These datasets are made from ProQuest US Newsstream using ProQuest TDM Studio. These datasets were created by selecting all [newspaper articles](https://about.proquest.com/en/products-services/nationalsnews_shtml/) with the term 'covid' in the full text. The possible date range is from January 1st, 2019, to July 12th, 2022. Please click [here](./dataset%20description/Proquest_News_Articles) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
 ## 3.SafeGraph Mobility
-The population mobility dataset is extracted from SafeGraph mobility data, including the population movements from the end of 2019 to April 2022, between the census tracts in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). The movements were tracked through mobile devices used by the citizens. Please click [here](./dataset/SafeGraph_Mobility) for more details.
+The population mobility dataset is extracted from SafeGraph mobility data, including the population movements from the end of 2019 to April 2022, between the census tracts in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). The movements were tracked through mobile devices used by the citizens. Please click [here](./dataset%20description/SafeGraph_Mobility) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
-## 4.The New York Times Covid Cases Report
-These datasets are provided by The New York Times, including the daily cumulative number of cases and deaths reported in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) since the beginning of the pandemic. Please click [here](./dataset/Covid_Cases) for more details.
+## 4.The NYT Covid Cases Report
+These datasets are provided by The New York Times, including the daily cumulative number of cases and deaths reported in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) since the beginning of the pandemic. Please click [here](./dataset%20description/The_NYT_Covid_Cases_Report) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
 ## 5.Urban Region Census
-This dataset is collected from the latest census, including the regional population size of different demographic categories (e.g., female, 0_to_9_years_old, asian…) in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). Please click [here](./dataset/Urban_Region) for more details.
+This dataset is collected from the latest census, including the regional population size of different demographic categories (e.g., female, 0_to_9_years_old, asian…) in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). Please click [here](./dataset%20description/Urban_Region_Census) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
