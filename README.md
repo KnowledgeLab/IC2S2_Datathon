@@ -1,13 +1,14 @@
 ![](./src/ic2s2_logo.png.webp)![](./src/knowledge_lab.png)
 
 ![](./src/ic2s2_bg.png)
+
 # IC2S2_Datathon
 
-Hi, Paticipants of #2022-IC2S2-Datathon,
+Hi Paticipants of #2022-IC2S2-Datathon,
 
 Welcome to the Data Repo of 8th IC2S2,2022!
 
-We provide the following datasets for you to explore. some datasets are privite, you can only download the data on game day.
+We provide the following datasets for you to explore. some datasets are privite, you can only download them on game day. The download link will be published @CDT 8:00am on July 18th,2022.
 
 
 ## Meta Business Data
