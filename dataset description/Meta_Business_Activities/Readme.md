@@ -1,6 +1,6 @@
 # Meta Business Activities
 - **Facebook_Business_Activity_Trends_White_Paper_IC2S2.pdf**    
-Descriptions for how the business activity datasets are constructed and how they enable partners to measure business downtime and   recovery following disasters like COVID-19.
+Descriptions for how the business activity datasets are constructed and how they enable partners to measure business downtime and recovery following disasters like COVID-19.
 
 - **FB_COVID_Business_Activity_Trends_Documentation - IC2S2.pdf**       
 Documentation for the following CSV data, including the explanations of business activity measurements, CSV column names (codebook), and different business verticals. **Please read this file carefully before you use the data!**  
