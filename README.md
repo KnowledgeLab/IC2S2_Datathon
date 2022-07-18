@@ -9,7 +9,7 @@ Welcome to the Datathon of 8th IC2S2, 2022! In this year's competition, we invit
 We compose a portfolio of 5 population-scale datasets for you to explore, including Meta Business Activities, Proquest News Articles, SafeGraph Mobility, The New York Times Covid Cases Report, Urban Region Census. The download links and brief introductions are provided as below.
 
 ## 1.Meta Business Activities
-These datasets are provided by Meta, including business posting activities on Facebook from 2020 to 2022. The data can be used to measure how local businesses are affected by and recover from crisis events like the pandemic. Please click [here](./dataset description/Meta_Business_Activities) for more details.
+These datasets are provided by Meta, including business posting activities on Facebook from 2020 to 2022. The data can be used to measure how local businesses are affected by and recover from crisis events like the pandemic. Please click [here](./dataset%20description/Meta_Business_Activities) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
