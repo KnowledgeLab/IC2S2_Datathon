@@ -20,7 +20,7 @@ These datasets are made from ProQuest US Newsstream using ProQuest TDM Studio. T
 By downloading this data you agree to the following terms: https://about.proquest.com/en/about/Supplemental-Terms-of-Use-TDM-Studio
 
 ## 3.SafeGraph Mobility
-The population mobility dataset is extracted from SafeGraph mobility data, including the population movements from the end of 2019 to April 2022, between the census tracts in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). The movements were tracked through mobile devices used by the citizens. Please click [here](./dataset%20description/SafeGraph_Mobility) for more details.
+The population mobility dataset is extracted from SafeGraph mobility data, including the population movements from the end of 2019 to April 2022, between the census tracts in each US [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area). The movements were aggregated from anonymized mobile devices. Please click [here](./dataset%20description/SafeGraph_Mobility) for more details.
 
 #### The download link will be published HERE @8:00am, July 18th, 2022 (CDT).
 
