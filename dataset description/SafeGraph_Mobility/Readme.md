@@ -1,4 +1,4 @@
-# Safegraph Mobility Data 
+# SafeGraph Mobility 
 - **Safegraph Mobility/\_.zip**
   
   - Each zip file contains multiple folders named by metropolitan statistical areas (MSAs), i.e., a total of 384 large city groups in the United States, whose initials match the zip’s name. 
