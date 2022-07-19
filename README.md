@@ -6,7 +6,7 @@
 
 Welcome to the Datathon of 8th IC2S2, 2022! In this year's competition, we invite you and your team to discover and convey insights from linked data about COVID prevalence, its framing in the national and local U.S. news, behavioral and commercial activities that follow. You are tasked with submiting an original, publicly relatable impression of your discovered patterns or associations, which should include an artistically appealing and scientific accurate data-driven visualization of your findings, alongside an explanatory description of up to 500 words. Findings should relate at least two forms data described above, may but need not link additional information (e.g., Twitter activity, Google Search attention, etc.) Source code of the discovered patterns should also be submitted to verify their scientific accuracy.
 
-#### Please format your submission as [this template](https://github.com/KnowledgeLab/IC2S2_Datathon/raw/main/Submission%20Format.pptx) and provide a separate explanatory description of your findings of up to 500 words. Please email these files to ic2s2@uchicago.edu by *Wednesday @ 8am CDT* to complete the submission. Late submissions will *not* be considered.  
+#### Please format your submission as [this template](https://github.com/KnowledgeLab/IC2S2_Datathon/raw/main/Submission%20Format.pptx) and provide a separate explanatory description of your findings of up to 500 words. Please fill [this contribution statement](https://github.com/KnowledgeLab/IC2S2_Datathon/blob/main/Contribution%20Statement.xlsx) and email all three files to ic2s2@uchicago.edu by *Wednesday @ 8am CDT* to complete the submission. Late submissions will *not* be considered.  
 
 ## Datasets
 
